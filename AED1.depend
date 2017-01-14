@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1450610650 source:c:\users\zeecunha\desktop\aed1\lib_src\adaoeeva.c
+	"adaoeeva.h"
+	"pessoa.h"
+	"stringsorting.h"
+	<string.h>
+	"lib_util.h"
+
+1449166544 c:\users\zeecunha\desktop\aed1\lib_src\adaoeeva.h
+	"stringsorting.h"
+
+1448416087 c:\users\zeecunha\desktop\aed1\lib_src\stringsorting.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"pessoa.h"
+
+1444654676 c:\users\zeecunha\desktop\aed1\lib_src\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1444322007 c:\users\zeecunha\desktop\aed1\lib_src\lib_util.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<sys/time.h>
+
+1448404123 source:c:\users\zeecunha\desktop\aed1\lib_src\bynarysearch.c
+	"bynarysearch.h"
+	"adaoeeva.h"
+	"pessoa.h"
+	"stringsorting.h"
+	<string.h>
+	"lib_util.h"
+
+1448403154 c:\users\zeecunha\desktop\aed1\lib_src\bynarysearch.h
+	<stdio.h>
+
+1444322006 source:c:\users\zeecunha\desktop\aed1\lib_src\lib_util.c
+	"lib_util.h"
+
+1448413388 source:c:\users\zeecunha\desktop\aed1\lib_src\pessoa.c
+	"pessoa.h"
+
+1449167425 source:c:\users\zeecunha\desktop\aed1\lib_src\stringsorting.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"lib_util.h"
+	"stringsorting.h"
+
+1448551048 source:c:\users\zeecunha\desktop\aed1\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"pessoa.h"
+	"adaoeeva.h"
+
+1450610650 source:c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\lib_src\adaoeeva.c
+	"adaoeeva.h"
+	"pessoa.h"
+	"stringsorting.h"
+	<string.h>
+	"lib_util.h"
+
+1449166544 c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\lib_src\adaoeeva.h
+	"stringsorting.h"
+
+1448416087 c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\lib_src\stringsorting.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"pessoa.h"
+
+1444654676 c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\lib_src\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1444322007 c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\lib_src\lib_util.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<sys/time.h>
+
+1444322006 source:c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\lib_src\lib_util.c
+	"lib_util.h"
+
+1448413388 source:c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\lib_src\pessoa.c
+	"pessoa.h"
+
+1449167425 source:c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\lib_src\stringsorting.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"lib_util.h"
+	"stringsorting.h"
+
+1448551048 source:c:\users\zeecunha\desktop\ufp\3º ano\1º semestre\aed\projeto1\aed1\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"pessoa.h"
+	"adaoeeva.h"
+

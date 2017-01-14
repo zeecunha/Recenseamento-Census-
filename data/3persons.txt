@@ -1,0 +1,20 @@
+19
+333333333;Cristiano Pedro Silva;20000624;Praça 9 de Abril, 349;4249033;Paranhos
+333333344;Cristiano Ronaldo;20000615;Praça 9 de Abril, 349;4249010;Penafiel
+333333335;Ricardo Quaresma;20000616;Avenida dos Aliados, 351;4249015;Braga
+333333336;Jorge Jesus;20000730;Avenida dos Aliados, 352;4249020;Urro
+332235333;Cristiano Pedro Silva;20000624;Praça 9 de Abril, 349;4249033;Paranhos
+373336344;Lord Lica;20040615;Rua dos pes tortos, 349;4244310;Guimaraes
+338336335;Maxi Pereira;20010616;Bairro do cerco, 351;4449785;Porto
+333333336;Jullen Lopetego;18920730;Rua das taticas;4247720;Porto
+333333766;Toni Carreira;19920730;Rua do Microfone;4247230;Braga
+311323336;Jose Cunha;19930515;Rua Central de Urro;4247732;Penafiel
+311346336;Joao Pedro;19980215;Avenida de Penafiel;4242233;Penafiel
+333333336;Jullen Lopetego;18920730;Rua das taticas;4247720;Porto
+333333766;Toni Carreira;19920730;Rua do Microfone;4247230;Braga
+311323336;Jose Cunha;19930515;Rua Central de Urro;4247732;Penafiel
+311346336;Joao Pedro;19980215;Avenida de Penafiel;4242233;Penafiel
+333333336;Jullen Lopetego;18920730;Rua das taticas;4247720;Porto
+333333766;Toni Carreira;19920730;Rua do Microfone;4247230;Braga
+311323336;Jose Cunha;19930515;Rua Central de Urro;4247732;Penafiel
+311346336;Joao Pedro;19980215;Avenida de Penafiel;4242233;Penafiel
